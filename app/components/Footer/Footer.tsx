@@ -74,7 +74,7 @@ const footer = () => {
             {/* All Rights Reserved */}
 
             <div className='pb-24 px-4'>
-                <h3 className='text-center text-offwhite'>@2023 - All Rights Reserved by <Link href="https://wzgate.com/" target="_blank"> Adminmart.com</Link></h3>
+                <h3 className='text-center text-offwhite'>@2023 - All Rights Reserved by <Link href="https://wzgate.com/" target="_blank">wzgate</Link></h3>
             </div>
 
         </div>
